@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GarySze
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning QUEMU
+- 🌱 I’m currently learning OpenGL
 
 <!---
 GarySze/GarySze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
